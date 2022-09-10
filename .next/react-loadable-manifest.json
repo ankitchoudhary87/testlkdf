@@ -1,0 +1,14 @@
+{
+  "Home\\index.js -> ./highlight": {
+    "id": "Home\\index.js -> ./highlight",
+    "files": [
+      "static/chunks/pages_Home_highlight_js.js"
+    ]
+  },
+  "Home\\index.js -> ./video": {
+    "id": "Home\\index.js -> ./video",
+    "files": [
+      "static/chunks/pages_Home_video_js.js"
+    ]
+  }
+}
